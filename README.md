@@ -7,6 +7,6 @@
 
 
 
-PDF FILE LINK : https://drive.google.com/file/d/1wdXGccf28ua0rFdtwecabmWx3u_-_5KA/view?usp=drive_link
+PDF FILE LINK : https://drive.google.com/file/d/170W-FkLv8C5MGqxakRmt8zCPOhQEWZ1R/view?usp=drive_link
 
 SQL FILE LINK: https://drive.google.com/file/d/1EciN6dSwOs5KGT6rfJPJxPlggcVyIl4g/view?usp=drive_link
