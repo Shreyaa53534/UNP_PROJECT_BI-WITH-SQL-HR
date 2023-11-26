@@ -16,6 +16,6 @@ Have also learnt to write queries and find various insights like.
 9. Top Performing Departments.
 10. Average Performance Rating.
 
-PDF FILE LINK : https://drive.google.com/file/d/1MTwItto6tmry5XA9OrKFTfsBSw8k9rod/view?usp=drive_link
+PDF FILE LINK : https://drive.google.com/file/d/1HmyMZfwvr_Ylpjj3I3haJDv2_htsWhda/view?usp=drive_link
 
 SQL FILE LINK: https://drive.google.com/file/d/1EciN6dSwOs5KGT6rfJPJxPlggcVyIl4g/view?usp=drive_link
