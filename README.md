@@ -4,7 +4,7 @@ into SQL querying using the HR dataset, enabling insightful data extraction and 
 The project involved learning how to :
 1. Create tables and assign primary keys & foreign keys to create data relationships.
 2. Importing the data into the Backup database.
-Have also learnt to write queries and find various insights like.
+Have also learnt to write queries and find various insights like:
 1. Number of employees from each city.
 2. Average salary by RaceDesc.
 3. Department with the highest employees.
